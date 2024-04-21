@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Home do Cleo</h1>
+    return <h1>Home do Cleonaldo</h1>
 }
 
 export default Home;
